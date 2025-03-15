@@ -45,7 +45,7 @@ En CoWorkSpace, estamos desarrollando una plataforma para gestionar reservas en 
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/usuario/coworkspace.git
+git clone https://github.com/Estefano-Lostaunau/coworkspace.git
 cd coworkspace/coworkspace.Api
 ```
 
